@@ -36,8 +36,8 @@ Alexander Orlovsky, Moscow
 ### Apr 2013 - Mar 2014: Team lead / Sports.ru
 
 * Perl team lead
-* develpers hiring
 * legacy code refactoring to more stable and maintainable state
+* develpers hiring
 
 ### Jun 2012 - Mar 2013: Programmer / Ostrovok.ru
 
