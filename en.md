@@ -9,15 +9,15 @@ Alexander Orlovsky, Moscow
 
 ## Current work scope, achievements, and interests
 
-* design kixx.today architecture from the ground up
 * developing new websocket's solution for all sites
-* start and developing monitoring and metrics adoption process (Prometheus, Grafana)
+* started and developing monitoring and metrics adoption process (Prometheus, Grafana)
+* designed kixx.today architecture from the ground up
 * move all company's sites to HTTPS
 * developed the common deployment framework (Ansible, Jenkins, Gitlab)
-* design and development of Mobile Pushes Delivery System
+* designed and developed inhouse Mobile Pushes Delivery System
 * technical debt fighting: refactor legacy code base, monolith decomposition, development process improvement (CI/CD adoption)
 
-Interests in learning and skills development:
+## Interests in learning and skills development
 
 * CS deeper knowledge: algorithms, data structures, OS internals, networking, programming languages, distributed systems design
 * Better debugging and troubleshooting skills
@@ -27,37 +27,48 @@ Interests in learning and skills development:
 
 ## Career history
 
-### Systems Architect / Sports.ru / Mar 2014 - Present
+### Mar 2014 - Present: Systems Architect / Sports.ru
 
-- automation, new technologies & devops practices adoption, SRE
-- Ansible, Docker, NSQ, Jenkins, Mongo, Graphite
-- go, python, perl, git
+* automation, new technologies & devops practices adoption, SRE
+* PL: go, python, perl
+* tools: Ansible, Docker, NSQ, Prometheus, Git
 
-### Team lead / Sports.ru / Apr 2013 - Mar 2014
+### Apr 2013 - Mar 2014: Team lead / Sports.ru
 
-- team lead, hiring
-- legacy code refactoring to more stable and maintainable state
-- bitbucket, jira, github, slack
-- performance tools (Yandex.Tank, tsung, etc...)
+* Perl team lead
+* develpers hiring
+* legacy code refactoring to more stable and maintainable state
 
-### Programmer / Ostrovok.ru / Jun 2012 - Mar 2013
+### Jun 2012 - Mar 2013: Programmer / Ostrovok.ru
 
-- automating online ads placement
-- ad reports and metrics (google adsense, yandex direct)
+* online ads placement automation
+* ad reports and metrics (google adsense, yandex direct)
 
-### Backend Developer / Yandex / Jun 2011 - Jul 2012
+### Jun 2011 - Jul 2012: Backend Developer / Yandex
 
-- SERP performance benchmarks, code tuning
-- automation tasks
-- js v8 adoption (rewrite some Perl to node.js)
-- i18n
+* SERP performance benchmarks, code tuning
+* automation tasks
+* js v8 adoption (rewrite some Perl to node.js)
+* i18n lib for js
 
-### Team Lead / Sports.ru / Apr 2010 - Jun 2011
+### Apr 2010 - Jun 2011: Team Lead / Sports.ru
 
 * end-to-end developing of core services
 * full stack programming (perl, sql, js)
 * hire and lead developers
 
+### 2003 - 2010: different IT jobs
+
+* dev team lead (rbc.ru)
+* dev (perl, php, latex, shell)
+* ops (windows, linux, users support)
+
 ## Education
 
+### formal
+
 1997 - 2002 / IT Specialist Diploma / SPbGMTU
+
+### real one
+
+ Hacking, Courses, Conferences, Books, Articles
