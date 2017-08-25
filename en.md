@@ -6,8 +6,9 @@ Alexander Orlovsky, Moscow
 
 * IM: [https://telegram.me/nordicdyno](https://telegram.me/nordicdyno)
 * Email: <nordicdyno@gmail.com>
+* previous CV (circa 2015 A.D.): https://www.slideshare.net/nordicdyno/resume-51318157
 
-## Current work scope, achievements, and interests
+## Current work scope and achievements
 
 * developing new websocket's solution for all sites
 * started and developing monitoring and metrics adoption process (Prometheus, Grafana)
