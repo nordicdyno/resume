@@ -16,7 +16,7 @@ Alexander Orlovsky, Moscow
 * move all company's sites to HTTPS
 * developed the common deployment framework (Ansible, Jenkins, Gitlab)
 * designed and developed inhouse Mobile Pushes Delivery System
-* technical debt fighting: refactor legacy code base, monolith decomposition, development process improvement (CI/CD adoption)
+* technical debt fighting: refactor legacy code base, optimization, monolith decomposition, development process improvement (CI/CD adoption), code repos moved to git and so on
 
 ## Interests in learning and skills development
 
