@@ -1,0 +1,5 @@
+baseURL = "https://kroy.ga/"
+languageCode = "en-us"
+title = "Alexander Orlovsky CV"
+
+theme = "winning"
