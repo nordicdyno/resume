@@ -15,18 +15,18 @@ title: CV-CV
 {{% column -span-cols-6 -m-right-2 %}}
 ## Professional Experience
 
-#### *Jul 2018 – Present*
+###### *Jul 2018 – Present*
 ### https://ins.world - Senior Developer
 
 Blockchain solutions developer
 
-#### *2016 - Oct 2017*
+###### *Apr 2016 - Oct 2017*
 ### kixx.today - Systems Architect
 
 * designed kixx.today architecture from the ground up
 * operations support of hardware, cloud, databases, deploy, monitoring, security
 
-#### *Mar 2014 - Oct 2017*
+###### *Mar 2014 - Oct 2017*
 ### Sports.ru - Systems Architect
 
 * automation, new technologies & devops practices adoption, SRE
@@ -39,36 +39,36 @@ Blockchain solutions developer
 * designed and developed inhouse Mobile Pushes Delivery System
 * technical debt fighting: refactor legacy code base, optimization, monolith decomposition, development process improvement (CI/CD adoption), code repos moved to git and so on
 
-#### *Apr 2013 - Mar 2014*
+###### *Apr 2013 - Mar 2014*
 ### Sports.ru - Team lead
 
 * Perl team lead
 * legacy code refactoring to more stable and maintainable state
 * develpers hiring
 
-#### *Jun 2012 - Mar 2013*
+###### *Jun 2012 - Mar 2013*
 ### Ostrovok.ru - Backend Developer
 
 * online ads placement automation
 * ad reports and metrics (google adsense, yandex direct)
 
-### *Jun 2011 - Jul 2012*
-#### Yandex - SERP Backend Developer
+###### *Jun 2011 - Jul 2012*
+### Yandex - SERP Backend Developer
 
 * SERP performance benchmarks, code tuning
 * build/perfomance benchmarks and other dev tasks automation
 * js v8 adoption (rewrite some Perl to node.js)
 * i18n lib for js
 
-### *Apr 2010 - Jun 2011*
-#### Sports.ru - Team Lead
+###### *Apr 2010 - Jun 2011*
+### Sports.ru - Team Lead
 
 * end-to-end developing of core services
 * full stack programming (perl, sql, js)
 * hire and lead developers
 
-### *2003 - 2010*
-#### various IT jobs
+###### *2003 - 2010*
+### various IT jobs
 
 * dev team lead in rbc.ru
 * backend developing (perl, php, latex, shell)
@@ -81,9 +81,10 @@ Blockchain solutions developer
 #### Fluent with
 
   * Go
-  * Ansible
   * Python
+  * Ansible
   * git
+  * nginx
 
 #### Familiar with
 
