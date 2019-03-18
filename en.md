@@ -8,29 +8,31 @@ Alexander Orlovsky, Moscow
 * Email: <nordicdyno@gmail.com>
 * previous CV (circa 2015 A.D.): https://www.slideshare.net/nordicdyno/resume-51318157
 
-## Current work scope and achievements
-
-* developing new websocket's solution for all sites
-* started and developing monitoring and metrics adoption process (Prometheus, Grafana)
-* designed kixx.today architecture from the ground up
-* move all company's sites to HTTPS
-* developed the common deployment framework (Ansible, Jenkins, Gitlab)
-* designed and developed inhouse Mobile Pushes Delivery System
-* technical debt fighting: refactor legacy code base, optimization, monolith decomposition, development process improvement (CI/CD adoption), code repos moved to git and so on
-
 ## Interests in learning and skills development
 
 * CS deeper knowledge: algorithms, data structures, OS internals, networking, programming languages, distributed systems design
 * Better debugging and troubleshooting skills
+* Cloud technologies (Kubernetes, GCE, AWS)
 * Go deeper knowledge of runtime, assembler and concurrency patterns
 * Machine Learning theory, technologies and methods
-* Cloud technologies (Kubernetes, GCE, AWS)
 
 ## Career history
 
-### Mar 2014 - Present: Systems Architect / Sports.ru
+### Jul 2018 - Present: Go developer / Insolar.io
 
-* automation, new technologies & devops practices adoption, SRE
+* programming in Go distributed blockchain ledger
+* code instrumentation (Opencensus, Jaeger)
+* hands on Kubernetes
+
+### Oct 2017 - Jul 2018 Tiny startups expirience
+
+* Python Django development
+* Ansible automation, servers and code provsion and configuation (bare metal, DO)
+* Go chat on top of Google Firebase
+
+### Mar 2014 - Oct 2017: Systems Architect / Sports.ru
+
+* automation, new technologies & devops practices adoption, play SRE role
 * PL: go, python, perl
 * tools: Ansible, Docker, NSQ, Prometheus, Git
 
