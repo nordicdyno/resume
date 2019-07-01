@@ -24,11 +24,11 @@ Alexander Orlovsky, Moscow
 * code instrumentation (Opencensus, Jaeger)
 * hands on Kubernetes
 
-### Oct 2017 - Jul 2018 Tiny startups expirience
+### Oct 2017 - Jul 2018 tiny startups experience
 
 * Python Django development
-* Ansible automation, servers and code provsion and configuation (bare metal, DO)
-* Go chat on top of Google Firebase
+* Ansible automation, servers and code provision and configuation (bare metal, DO)
+* Go chat on top of Google's Firebase technology with MongoDB backend
 
 ### Mar 2014 - Oct 2017: Systems Architect / Sports.ru
 
