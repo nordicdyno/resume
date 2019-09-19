@@ -6,29 +6,28 @@ Alexander Orlovsky, Moscow
 
 * IM: [https://telegram.me/nordicdyno](https://telegram.me/nordicdyno)
 * Email: <nordicdyno@gmail.com>
-* previous CV (circa 2015 A.D.): https://www.slideshare.net/nordicdyno/resume-51318157
 
 ## Interests in learning and skills development
 
-* CS deeper knowledge: algorithms, data structures, OS internals, networking, programming languages, distributed systems design
-* Better debugging and troubleshooting skills
-* Cloud technologies (Kubernetes, GCE, AWS)
-* Go deeper knowledge of runtime, assembler and concurrency patterns
-* Machine Learning theory, technologies and methods
+* CS: algorithms, data structures, OS internals, networking, programming languages, distributed systems design
+* debugging and troubleshooting skills
+* cloud technologies
+* ML, DL
+* deep understanding how to system works
 
-## Career history
+## Relevant career history
 
 ### Jul 2018 - Present: Go developer / Insolar.io
 
-* programming in Go distributed blockchain ledger
-* code instrumentation (Opencensus, Jaeger)
-* hands on Kubernetes
+* programming distributed blockchain ledger in Go
+* code instrumentation(Opencensus, Jaeger)
+* hands on Kubernetes, gRPC, protobuf stuff
 
 ### Oct 2017 - Jul 2018 tiny startups experience
 
-* Python Django development
-* Ansible automation, servers and code provision and configuation (bare metal, DO)
-* Go chat on top of Google's Firebase technology with MongoDB backend
+* Python Django development (APIs)
+* Ansible automation, servers and code provision and configuration (bare metal, DO)
+* made Go chat on top of Google's Firebase technology with MongoDB backend
 
 ### Mar 2014 - Oct 2017: Systems Architect / Sports.ru
 
@@ -74,4 +73,4 @@ Alexander Orlovsky, Moscow
 
 ### real one
 
- Hacking, Courses, Conferences, Books, Articles
+Hacking and tinkering, Courses, Conferences, Books, Articles, other people work.
