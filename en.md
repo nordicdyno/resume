@@ -17,7 +17,13 @@ Alexander Orlovsky, Moscow
 
 ## Relevant career history
 
-### Jul 2018 - Present: Go developer / Insolar.io
+### Mar 2020 - Present: Senior Go developer / Vivid.money
+
+* microservices: gRPC/Postgres/Kafka/Jaeger/Prometheus
+* tests/deployments: Autotests, Gitlab CI/CD, Docker, Kubernetes/Helm
+* on-call: PagerDuty
+
+### Jul 2018 - Mar 2020: Senior Go developer / Insolar.io
 
 * programming distributed blockchain ledger in Go
 * code instrumentation(Opencensus, Jaeger)
