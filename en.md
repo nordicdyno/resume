@@ -13,7 +13,7 @@ Alexander Orlovsky, Moscow
 * debugging and troubleshooting skills
 * cloud technologies
 * ML, DL
-* deep understanding how to system works
+* deep understanding how to systems works
 
 ## Relevant career history
 
