@@ -37,6 +37,9 @@ Alexander Orlovsky, Moscow
 
 ### Mar 2014 - Oct 2017: Systems Architect / Sports.ru
 
+* HTTPs migration
+* mobile pushes service, websockets server
+* IaaC, Observabilty
 * automation, new technologies & devops practices adoption, play SRE role
 * PL: go, python, perl
 * tools: Ansible, Docker, NSQ, Prometheus, Git
