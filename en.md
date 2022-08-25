@@ -19,8 +19,9 @@ Alexander Orlovsky, Moscow
 
 ### Mar 2020 - Present: Senior Go developer / Vivid.money
 
-* microservices: gRPC/Postgres/Kafka/Jaeger/Prometheus
-* tests/deployments: Autotests, Gitlab CI/CD, Docker, Kubernetes/Helm
+* microservices: Go/gRPC/Postgres/Kafka
+* tests/deployments: autotests (unit/isolation), Gitlab CI/CD, Docker, Kubernetes/Helm
+* automation: automate routine dev tasks, provide microservice chassis (kind of)
 * on-call: PagerDuty
 
 ### Jul 2018 - Mar 2020: Senior Go developer / Insolar.io
