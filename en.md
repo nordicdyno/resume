@@ -11,9 +11,9 @@ Alexander Orlovsky, Moscow
 
 * CS: algorithms, data structures, OS internals, networking, programming languages, distributed systems design
 * debugging and troubleshooting skills
+* deep understanding how systems works (mechanical sympathy)
 * cloud technologies
 * ML, DL
-* deep understanding how to systems works
 
 ## Relevant career history
 
